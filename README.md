@@ -2,7 +2,8 @@
 
 <a name="intro"></a>
 # TACTICAL HAPTICS - KANNIBAL SEASON
-Description.
+- sewn-in PC electronic components (microcomputer, heat, humidity readings)
+- techwear resources
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
