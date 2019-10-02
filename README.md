@@ -1,4 +1,4 @@
-![Project Banner](/assets/template_visuals/temp-banner.png)
+[Season Cover]
 
 <a name="intro"></a>
 # TACTICAL HAPTICS - KANNIBAL SEASON
