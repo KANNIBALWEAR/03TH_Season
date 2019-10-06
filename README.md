@@ -1,7 +1,7 @@
 [Season Cover]
 
 <a name="intro"></a>
-# TACTICAL HAPTICS - KANNIBAL SEASON
+# TACTICAL HAPTICS - KANNIBAL SEASON (4th Season) Time Destination: 2023
 - sewn-in PC electronic components (microcomputer, heat, humidity readings)
 - techwear resources
 
