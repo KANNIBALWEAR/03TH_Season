@@ -15,28 +15,6 @@ Description.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-quad-gallery.png)
 
-### Table of Contents
-1. [Introduction.](#intro)
-2. [Features.](#features)
-3. [Issues.](#issues)
-4. [Icebox.](#icebox)
-5. [Installation and usage guide.](#install)
-6. [Contributing.](#contribute)
-7. [License.](#license)
-8. [Credits.](#credits)
-9. [Commit Glyphs.](#glyphs)
-
-<a name="features"></a>
-### Features
-+ Feature_01
-+ Feature_02
-+ Feature_03
-
-<a name="issues"></a>
-### Issues
-+ Issue_01
-+ Issue_02
-+ Issue_03
 
 <a name="icebox"></a>
 ### Icebox
